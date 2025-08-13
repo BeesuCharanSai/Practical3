@@ -10,7 +10,7 @@ pipeline {
         BACKEND_DIR = 'crud_backend/crud_backend-main'
         FRONTEND_DIR = 'crud_frontend/crud_frontend-main'
 
-        TOMCAT_URL = 'http://16.16.215.35:9090/manager/text'
+        TOMCAT_URL = 'http://15.207.247.20:9090/manager/text'
         TOMCAT_USER = 'admin'
         TOMCAT_PASS = 'admin'
 
